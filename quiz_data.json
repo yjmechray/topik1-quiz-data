@@ -779,7 +779,8 @@
     { "question": "샴푸", "answer": ["shampoo"], "sentence": "샴푸로 머리를 감았어요.", "sentence_en": "I washed my hair with shampoo." },
     { "question": "서다", "answer": ["stand"], "sentence": "줄을 서서 기다리세요.", "sentence_en": "Please stand in line and wait." },
     { "question": "서로", "answer": ["each other, both"], "sentence": "우리는 서로 도와야 해요.", "sentence_en": "We must help each other." }
-]}
-]
-  ],
+]},
+
+    
+  ]
 }
